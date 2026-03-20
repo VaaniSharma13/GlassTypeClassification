@@ -4,9 +4,12 @@ A machine learning classification model that uses python along with scikit- lear
 # PROBLEM STATEMENT:
 Is it possible to predict the type of glass and its application, based off of its refractive index and chemical composition.
 The target glass classes include- 
-1. Glass for windows in buildings(Float processed)        4. Tableware
-2. Glass for building windows (Non float                  5. Headlamps in vehicle
-3. Vehicle windows                                        6. Containers/storage
+1. Glass for windows in buildings(Float processed)
+2. Tableware
+3. Glass for building windows (Non float
+4. Headlamps in vehicle
+5. Vehicle windows
+6. Containers/storage
 
 
    
