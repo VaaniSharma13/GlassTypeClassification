@@ -1,7 +1,7 @@
 # GlassTypeClassification
 A machine learning classification model that uses python along with scikit- learn to classify between 6 glass types based on their refractive index and chemical composition using Logistic Regression on a UCI glass dataset.
 
-#PROBLEM STATEMENT:
+# PROBLEM STATEMENT:
 Is it possible to predict the type of glass and its application, based off of its refractive index and chemical composition.
 The target glass classes include- 
 1. Glass for windows in buildings(Float processed)        4. Tableware
